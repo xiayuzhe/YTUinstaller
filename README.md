@@ -1,4 +1,4 @@
-# YTUinstaller
+# YTUinstallermain
 A YTU automatic login Python script
 这是一个关于自动登录YTU的移动校园有线网的脚本。
 众所周知，YTU的计费版每个月只有30G免费流量，而通过网口获得的移动校园有线网，却是无限制的，但每次开机都要登录（它也不提供与YTU的计费版类似的绑定MAC地址的功能），十分不便。为解决此痛点，我写了这个Python脚本。
